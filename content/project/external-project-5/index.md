@@ -1,12 +1,12 @@
 ---
-title: Academic misconduct cases rise at GW, nationwide following year of remote learning
-summary: Experts said the uptick could be attributed to students' increased stress levels and professors' use of online proctoring technology with remote learning.
+title: Traffic deaths surge during pandemic as local leaders call for change
+summary: Traffic fatalities in the District have nearly doubled so far this calendar year compared to this time last year.
 tags:
-- Academics
+- Metro
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.gwhatchet.com/2021/05/17/academic-misconduct-cases-rise-at-gw-nationwide-following-year-of-remote-learning/
+external_link: https://www.gwhatchet.com/2021/05/10/traffic-deaths-surge-during-pandemic-as-local-leaders-call-for-change/
 
 image:
   caption:

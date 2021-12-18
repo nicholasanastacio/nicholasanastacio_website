@@ -37,8 +37,8 @@ content:
     tag: Student Life
   - name: Health and Sciences
     tag: Health and Sciences
-  - name: D.C. Metro
-    tag: D.C. Metro
+  - name: Metro
+    tag: Metro
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

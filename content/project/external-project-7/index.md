@@ -1,12 +1,12 @@
 ---
-title: Academic misconduct cases rise at GW, nationwide following year of remote learning
-summary: Experts said the uptick could be attributed to students' increased stress levels and professors' use of online proctoring technology with remote learning.
+title: A look back at GW's response to COVID in 2021
+summary: Students returning to campus this fall with a wide array of mitigation measures in place, including testing, masking, and vaccine requirements.
 tags:
-- Academics
+- Health and Sciences
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.gwhatchet.com/2021/05/17/academic-misconduct-cases-rise-at-gw-nationwide-following-year-of-remote-learning/
+external_link: https://www.gwhatchet.com/2021/12/06/a-look-back-at-gws-response-to-covid-in-2021/
 
 image:
   caption:
