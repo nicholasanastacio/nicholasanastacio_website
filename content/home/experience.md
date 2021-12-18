@@ -49,7 +49,7 @@ experience:
         
   - title: Sales Associate
     company: American Dream Riders
-    company_url: 'https://www.gwhatchet.com'
+    company_url: ''
     location: Washington, DC
     date_start: '2021-09-01'
     date_end: ''
@@ -87,7 +87,7 @@ experience:
         
   - title: Capital Crossfire Writer and Anchor
     company: GW-TV
-    company_url: ''
+    company_url: 'https://www.gw-tv.com'
     location: Washington, DC
     date_start: '2020-09-01'
     date_end: '2021-09-01'
