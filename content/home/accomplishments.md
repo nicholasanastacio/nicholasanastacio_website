@@ -45,7 +45,7 @@ item:
   description: ""
   organization: University Honors Program
   organization_url: https://honorsprogram.gwu.edu
-  title: Honors Recipient
+  title: Honors Student
   url: ""
 
 design:

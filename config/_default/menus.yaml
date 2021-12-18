@@ -7,7 +7,7 @@ main:
   - name: Skills
     url: '#skills'
     weight: 10
-  - name: Projects
+  - name: Graphics
     url: '#projects'
     weight: 20
   - name: Experience

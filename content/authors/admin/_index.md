@@ -14,13 +14,13 @@ organizations:
   url: https://www.gwhatchet.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My focus is on creating inforgraphics and data visualizations to accompany stories on a range of beats.
+bio: My focus is on creating inforgraphics and data visualizations to accompany news stories on a range of beats.
 
 # Interests to show in About widget
 interests:
 - Data Journalism
 - Data Visualization
-- Psephology
+- Graphic Design
 
 # Education to show in About widget
 education:

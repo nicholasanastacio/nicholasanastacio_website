@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 35
 
-title: Projects
+title: Graphics
 subtitle: ''
 
 content:
@@ -27,10 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Academics
+    tag: Academics
+  - name: Administration
+    tag: Administration
+  - name: Student Government
+    tag: Student Government
+  - name: Student Life
+    tag: Student Life
+  - name: Health and Sciences
+    tag: Health and Sciences
+  - name: D.C. Metro
+    tag: D.C. Metro
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
